@@ -14,4 +14,4 @@ This project analyzes a dataset of 200+ countries to identify:
 ## How to Run
 1. Clone the repo.
 2. Ensure `countries-table.csv` is in the directory.
-3. Run `analysis.R` in RStudio.
+3. Run `PRODIGY_DS_01` in RStudio.
